@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1455 TILs and counting..._
+_1459 TILs and counting..._
 
 ---
 
@@ -590,6 +590,7 @@ _1455 TILs and counting..._
 - [Find The Process Using A Specific Port](mac/find-the-process-using-a-specific-port.md)
 - [Gesture For Viewing All Windows Of Current App](mac/gesture-for-viewing-all-windows-of-current-app.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
+- [Keyboard Shortcuts For Interesting With Text Areas](mac/keyboard-shortcuts-for-interacting-with-text-areas.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
 - [Open Finder.app To Specific Directory](mac/open-finder-app-to-specific-directory.md)
 - [Quickly Type En Dashes And Em Dashes](mac/quickly-type-en-dashes-and-em-dashes.md)
@@ -899,6 +900,7 @@ _1455 TILs and counting..._
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Customize Paths And Helpers For Devise Routes](rails/customize-paths-and-helpers-for-devise-routes.md)
 - [Customize The Path Of A Resource Route](rails/customize-the-path-of-a-resource-route.md)
+- [Define The Root Path For The App](rails/define-the-root-path-for-the-app.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
 - [Different Ways To Add A Foreign Key Reference](rails/different-ways-to-add-a-foreign-key-reference.md)
@@ -964,6 +966,7 @@ _1455 TILs and counting..._
 - [Rescue From With A Separate Method](rails/rescue-from-with-a-separate-method.md)
 - [Respond With JSON Regardless of Content Type](rails/respond-with-json-regardless-of-content-type.md)
 - [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
+- [Rollback A Couple Migrations](rails/rollback-a-couple-migrations.md)
 - [Rollback A Specific Migration Out Of Order](rails/rollback-a-specific-migration-out-of-order.md)
 - [Rounding Numbers With Precision](rails/rounding-numbers-with-precision.md)
 - [Run A Rake Task Programmatically](rails/run-a-rake-task-programmatically.md)
@@ -1212,6 +1215,7 @@ _1455 TILs and counting..._
 - [Pattern Match Values From A Hash](ruby/pattern-match-values-from-a-hash.md)
 - [Percent Notation](ruby/percent-notation.md)
 - [Precedence Of Logical Operators](ruby/precedence-of-logical-operators.md)
+- [Prevent erb_lint From Removing Opening Tags](ruby/prevent-erb-lint-from-removing-opening-tags.md)
 - [Print Data To Formatted Table](ruby/print-data-to-formatted-table.md)
 - [Question Mark Operator](ruby/question-mark-operator.md)
 - [Rake Only Lists Tasks With Descriptions](ruby/rake-only-lists-tasks-with-descriptions.md)
