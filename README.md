@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1462 TILs and counting..._
+_1469 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _1462 TILs and counting..._
 * [Ack](#ack)
 * [Amplify](#amplify)
 * [Ansible](#ansible)
+* [Astro](#astro)
 * [Brew](#brew)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
@@ -97,6 +98,11 @@ _1462 TILs and counting..._
 ### Ansible
 
 - [Loop Over A List Of Dictionaries](ansible/loop-over-a-list-of-dictionaries.md)
+
+### Astro
+
+- [Generate Types For A Content Collection](astro/generate-types-for-a-content-collection.md)
+- [Markdown Files Are Of Type MarkdownInstance](astro/markdown-files-are-of-type-markdown-instance.md)
 
 ### Brew
 
@@ -270,6 +276,7 @@ _1462 TILs and counting..._
 - [Auto-Squash Those Fixup Commits](git/auto-squash-those-fixup-commits.md)
 - [Caching Credentials](git/caching-credentials.md)
 - [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
+- [Check How A File Is Being Ignored](git/check-how-a-file-is-being-ignored.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
@@ -436,6 +443,7 @@ _1462 TILs and counting..._
 
 ### Java
 
+- [Ensure Resources Always Get Closed](java/ensure-resources-always-get-closed.md)
 - [Install Java On Mac With Brew](java/install-java-on-mac-with-brew.md)
 - [Run A Hello World Program In Eclipse](java/run-a-hello-world-program-in-eclipse.md)
 
@@ -449,6 +457,7 @@ _1462 TILs and counting..._
 - [Check If A Number Is Positive Or Negative](javascript/check-if-a-number-is-positive-or-negative.md)
 - [Check If File Exists Before Reading It](javascript/check-if-file-exists-before-reading-it.md)
 - [Check If Something Is An Array](javascript/check-if-something-is-an-array.md)
+- [Check Media Queries From JavaScript](javascript/check-media-queries-from-javascript.md)
 - [Check The Password Confirmation With Yup](javascript/check-the-password-confirmation-with-yup.md)
 - [Compare The Equality Of Two Date Objects](javascript/compare-the-equality-of-two-date-objects.md)
 - [Computed Property Names In ES6](javascript/computed-property-names-in-es6.md)
@@ -1447,6 +1456,7 @@ _1462 TILs and counting..._
 - [List The Stack Of Remembered Directories](unix/list-the-stack-of-remembered-directories.md)
 - [Load Env Vars In Bash Script](unix/load-env-vars-in-bash-script.md)
 - [Look Through All Files That Have Been Git Stashed](unix/look-through-all-files-that-have-been-git-stashed.md)
+- [Make Direnv Less Noisy](unix/make-direnv-less-noisy.md)
 - [Map A Domain To localhost](unix/map-a-domain-to-localhost.md)
 - [Negative Look-Ahead Search With ripgrep](unix/negative-look-ahead-search-with-ripgrep.md)
 - [Occupy A Local Port With Netcat](unix/occupy-a-local-port-with-netcat.md)
@@ -1647,6 +1657,7 @@ _1462 TILs and counting..._
 - [Swap Occurrences Of Two Words](vim/swap-occurrences-of-two-words.md)
 - [Swapping Split Windows](vim/swapping-split-windows.md)
 - [Swap The Position Of Two Split Windows](vim/swap-the-position-of-two-split-windows.md)
+- [Switch Moving End Of Visual Selection](vim/switch-moving-end-of-visual-selection.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 - [The Vim Info File](vim/the-vim-info-file.md)
 - [Toggle Absolute And Relative Paths In BufExplorer](vim/toggle-absolute-and-relative-paths-in-bufexplorer.md)
