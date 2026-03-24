@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1764 TILs and counting..._
+_1765 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1578,6 +1578,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### Taskfile
 
+- [Add Default Task To List All Tasks](taskfile/add-default-task-to-list-all-tasks.md)
 - [Create Interactive Picker For Set Of Subtasks](taskfile/create-interactive-picker-for-set-of-subtasks.md)
 - [Run A Task If It Meets Criteria](taskfile/run-a-task-if-it-meets-criteria.md)
 
