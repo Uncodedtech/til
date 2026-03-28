@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1767 TILs and counting..._
+_1768 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1818,6 +1818,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Use fzf To Change Directories](unix/use-fzf-to-change-directories.md)
 - [Use Negative Lookbehind Matching With ripgrep](unix/use-negative-lookbehind-matching-with-ripgrep.md)
 - [Use Regex Pattern Matching With Grep](unix/use-regex-pattern-matching-with-grep.md)
+- [Use The Readline Keybindings Anywhere](unix/use-the-readline-keybindings-anywhere.md)
 - [View A Web Page In The Terminal](unix/view-a-web-page-in-the-terminal.md)
 - [View The Source For A Brew Formula](unix/view-the-source-for-a-brew-formula.md)
 - [Watch The Difference](unix/watch-the-difference.md)
