@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1768 TILs and counting..._
+_1769 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1061,6 +1061,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Look Inside Pytest tmp_path](python/look-inside-pytest-tmp-path.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Parse Relative Time To datetime Object](python/parse-relative-time-to-datetime-object.md)
+- [Skip Specific Pytest Test Cases](python/skip-specific-pytest-test-cases.md)
 - [Start The Debugger When A Test Errors](python/start-the-debugger-when-a-test-errors.md)
 - [Store And Access Immutable Data In A Tuple](python/store-and-access-immutable-data-in-a-tuple.md)
 - [Test A Function With Pytest](python/test-a-function-with-pytest.md)
