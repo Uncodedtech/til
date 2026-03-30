@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1769 TILs and counting..._
+_1770 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2090,6 +2090,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Add To The Path Via Path Array](zsh/add-to-the-path-via-path-array.md)
 - [Create And Jump Into A Directory](zsh/create-and-jump-into-a-directory.md)
 - [Link A Scalar To An Array](zsh/link-a-scalar-to-an-array.md)
+- [List Available Zle Keybindings](zsh/list-available-zle-keybindings.md)
 - [Use A Space To Exclude Command From History](zsh/use-a-space-to-exclude-command-from-history.md)
 
 ## Usage
