@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1770 TILs and counting..._
+_1771 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -847,6 +847,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### pnpm
 
+- [Avoid Vulnerabilities In New Package Versions](pnpm/avoid-vulnerabilities-in-new-package-versions.md)
 - [Execute A Command From The Workspace Root](pnpm/execute-a-command-from-the-workspace-root.md)
 - [Install Command Runs For Entire Workspace](pnpm/install-command-runs-for-entire-workspace.md)
 - [List The Installed Version Of A Specific Package](pnpm/list-the-installed-version-of-a-specific-package.md)
