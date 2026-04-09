@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1774 TILs and counting..._
+_1775 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -362,6 +362,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Determine Absolute Path Of Top-Level Project Directory](git/determine-absolute-path-of-top-level-project-directory.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Diffing With Patience](git/diffing-with-patience.md)
+- [Display All Git Log Entries In My Local Timezone](git/display-all-git-log-entries-in-my-local-timezone.md)
 - [Dropping Commits With Git Rebase](git/dropping-commits-with-git-rebase.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
 - [Exclude A File From A Diff Output](git/exclude-a-file-from-a-diff-output.md)
