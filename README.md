@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1775 TILs and counting..._
+_1776 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1063,6 +1063,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Keep A Tally With collections.Counter](python/keep-a-tally-with-collections-counter.md)
 - [Load A File Into The Python REPL](python/load-a-file-into-the-python-repl.md)
 - [Look Inside Pytest tmp_path](python/look-inside-pytest-tmp-path.md)
+- [Make Dataclass Sortable By Specific Field](python/make-dataclass-sortable-by-specific-field.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Parse Relative Time To datetime Object](python/parse-relative-time-to-datetime-object.md)
 - [Skip Specific Pytest Test Cases](python/skip-specific-pytest-test-cases.md)
