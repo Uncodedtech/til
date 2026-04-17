@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1776 TILs and counting..._
+_1777 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1420,6 +1420,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
 - [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
 - [Define A Method On A Struct](ruby/define-a-method-on-a-struct.md)
+- [Define A Set Of Class Methods](ruby/define-a-set-of-class-methods.md)
 - [Define Multiline Strings With Heredocs](ruby/define-multiline-strings-with-heredocs.md)
 - [Destructure The First Item From An Array](ruby/destructure-the-first-item-from-an-array.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
