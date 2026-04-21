@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1777 TILs and counting..._
+_1778 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1048,6 +1048,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 - [Access Instance Variables](python/access-instance-variables.md)
 - [Access Most Recent Return Value In REPL](python/access-most-recent-return-value-in-repl.md)
+- [Access Variables Outside Loop Scope](python/access-variables-outside-loop-scope.md)
 - [Avoid Modification With Frozen Dataclass](python/avoid-modification-with-frozen-dataclass.md)
 - [Break Debugger On First Line Of Program](python/break-debugger-on-first-line-of-program.md)
 - [Check If Package Is Installed With Pip](python/check-if-package-is-installed-with-pip.md)
