@@ -27,5 +27,5 @@ If that one ends up being a little too noisy, you can also use `gh` to _list_
 just PRs for the current project:
 
 ```bash
-gh pr list --search "review-requested:@me"
+$ gh pr list --search "review-requested:@me"
 ```
