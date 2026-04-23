@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1778 TILs and counting..._
+_1779 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -464,6 +464,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### GitHub
 
 - [Access Your GitHub Profile Photo](github/access-your-github-profile-photo.md)
+- [List PRs Awaiting Your Review](github/list-prs-awaiting-your-review.md)
 - [Open A PR To An Unforked Repo](github/open-a-pr-to-an-unforked-repo.md)
 - [Target Another Repo When Creating A PR](github/target-another-repo-when-creating-a-pr.md)
 - [Tell gh What The Default Repo Is](github/tell-gh-what-the-default-repo-is.md)
