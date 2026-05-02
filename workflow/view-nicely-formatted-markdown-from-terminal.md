@@ -1,8 +1,9 @@
 # View Nicely Formatted Markdown From Terminal
 
-The `glow` utility is CLI markdown renderer written in Go. It is part of the
-CCU ([charmbraclet](https://github.com/charmbracelet) CLI universe). And yes, I
-just made up _CCU_.
+The [`glow`](https://github.com/charmbracelet/glow) utility is CLI markdown
+renderer written in Go. It is part of the CCU
+([charmbraclet](https://github.com/charmbracelet) CLI universe). And yes, I just
+made up _CCU_.
 
 `glow` is great because it processes and outputs a markdown file with some
 styling tailored to a terminal including:
