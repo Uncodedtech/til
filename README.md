@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1784 TILs and counting..._
+_1785 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1061,6 +1061,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Define Sequence Of Tests With Parametrize Decorator](python/define-sequence-of-tests-with-parametrize-decorator.md)
 - [Dunder Methods](python/dunder-methods.md)
 - [Easy Key-Value Aggregates With defaultdict](python/easy-key-value-aggregates-with-defaultdict.md)
+- [Get Absolute Seconds From `timedelta` Object](python/get-absolute-seconds-from-timedelta-object.md)
 - [Install With PIP For Specific Interpreter](python/install-with-pip-for-specific-interpreter.md)
 - [Iterate First N Items From Enumerable](python/iterate-first-n-items-from-enumerable.md)
 - [Iterate Over A Dictionary](python/iterate-over-a-dictionary.md)
