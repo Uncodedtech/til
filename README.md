@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1783 TILs and counting..._
+_1784 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -2069,6 +2069,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Toggle Between Stories In Storybook](workflow/toggle-between-stories-in-storybook.md)
 - [Update asdf Plugins With Latest Package Versions](workflow/update-asdf-plugins-with-latest-package-versions.md)
 - [View A Nicely-Formatted CSV In Terminal](workflow/view-a-nicely-formatted-csv-in-terminal.md)
+- [View Nicely Formatted Markdown From Terminal](workflow/view-nicely-formatted-markdown-from-terminal.md)
 - [View The PR For The Current GitHub Branch](workflow/view-the-pr-for-the-current-github-branch.md)
 
 ### XState
