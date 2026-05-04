@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1786 TILs and counting..._
+_1787 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1072,6 +1072,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Make Dataclass Sortable By Specific Field](python/make-dataclass-sortable-by-specific-field.md)
 - [Override The Boolean Context Of A Class](python/override-the-boolean-context-of-a-class.md)
 - [Parse Relative Time To datetime Object](python/parse-relative-time-to-datetime-object.md)
+- [Reclassify Certain Packages As Dev Dependencies](python/reclassify-certain-packages-as-dev-dependencies.md)
 - [Skip Specific Pytest Test Cases](python/skip-specific-pytest-test-cases.md)
 - [Sort A List Of Dataclass Instances](python/sort-a-list-of-dataclass-instances.md)
 - [Sort Normalized Version Of Data](python/sort-normalized-version-of-data.md)
