@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1787 TILs and counting..._
+_1788 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -406,6 +406,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Override The Global Git Ignore File](git/override-the-global-git-ignore-file.md)
 - [Pick Specific Changes To Stash](git/pick-specific-changes-to-stash.md)
+- [Programmatically Grab SHA For Head Commit](git/programmatically-grab-sha-for-head-commit.md)
 - [Pulling In Changes During An Interactive Rebase](git/pulling-in-changes-during-an-interactive-rebase.md)
 - [Push To A Branch On Another Remote](git/push-to-a-branch-on-another-remote.md)
 - [Quicker Commit Fixes With The Fixup Flag](git/quicker-commit-fixes-with-the-fixup-flag.md)
